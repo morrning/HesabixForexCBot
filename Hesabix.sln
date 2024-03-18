@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hesabix", "Hesabix\Hesabix.csproj", "{f5bc56c6-1fa8-4b84-80cd-a9656f562589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{f5bc56c6-1fa8-4b84-80cd-a9656f562589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f5bc56c6-1fa8-4b84-80cd-a9656f562589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f5bc56c6-1fa8-4b84-80cd-a9656f562589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{f5bc56c6-1fa8-4b84-80cd-a9656f562589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
